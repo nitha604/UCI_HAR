@@ -2,7 +2,7 @@
 
 **A comprehensive machine learning pipeline for classifying human activities from smartphone sensor data, with a focus on solving inter-subject domain shift.**
 
-> **Live Dashboard:** [Streamlit App](https://your-app-url.streamlit.app) *(update after deployment)*
+> **Live Dashboard:** [Streamlit App]([https://ucihar-fm7joibws8fyfzpsrmjijt.streamlit.app/]) 
 
 ---
 
